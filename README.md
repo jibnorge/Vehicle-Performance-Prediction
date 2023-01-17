@@ -12,4 +12,4 @@ $$
 $$
 
 where, <br><p style="margin-left:2.5em">w<sub>t+1</sub> : new weight</p> 
-<p style="margin-left:2.5em">w<sub>t</sub> : old weight </p><p style="margin-left:2.5em"><h style = "font-family:Noto Sans Math">L</h> : loss function</p>
+<p style="margin-left:2.5em">w<sub>t</sub> : current weight </p><p style="margin-left:2.5em"><h style = "font-family:Noto Sans Math">L</h> : loss function</p>
