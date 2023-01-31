@@ -1,4 +1,4 @@
-# Linear_Regression_SGD
+# Vehicle Performance Prediction
 Vehicle Performance prediction using Linear regression SGD method
 
 ## Problem Statement
