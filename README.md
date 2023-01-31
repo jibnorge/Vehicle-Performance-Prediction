@@ -1,6 +1,9 @@
 # Vehicle Performance Prediction
 Vehicle Performance prediction using Linear regression SGD method
 
+## Abstract
+Vehicle performance prediction has become an important area of research due to the growing concern for fuel efficiency and reducing carbon emissions. In order to optimize fuel consumption, it is necessary to predict the expected mileage of a vehicle based on various inputs. This information can then be used to optimize vehicle design, improve driving efficiency, and reduce environmental impact.
+
 ## Problem Statement
 Analyse the different factors affecting the mileage of a vehicle and train a model using these features.
 
